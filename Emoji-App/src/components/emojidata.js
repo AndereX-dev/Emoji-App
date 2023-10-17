@@ -1,4 +1,4 @@
-const emojiWithNames = [
+export const emojiWithNames = [
     { emoji: "✌", name: "Peace Sign" },
     { emoji: "😂", name: "Face with Tears of Joy" },
     { emoji: "😝", name: "Squinting Face with Tongue" },
